@@ -17,7 +17,11 @@ const RESOURCES = {
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "assets/fonts/Poppins.ttf": "41e8dead03fb979ecc23b8dfb0fef627",
+<<<<<<< HEAD
 "assets/NOTICES": "42d4359dfd5f8fa044b30e52bb14c492",
+=======
+"assets/NOTICES": "c945b63e3f4e808be1b460b3efa1a3f5",
+>>>>>>> ca4269d5facf16deb0157c05e6d2e20fa4f3bc54
 "assets/FontManifest.json": "e56c404021f361c1510c701e3af351f8",
 "assets/images/myPhotoNew.jpg": "989cfda3c9d7bf2dfd26e11e5c24a8af",
 "assets/images/myPhoto.png": "841543e2fdabef8561f93ac554e307ec",
@@ -38,7 +42,11 @@ const RESOURCES = {
 "android-icon-48x48.png": "8e730414978ddb987e779e7a558269ec",
 "apple-icon-60x60.png": "ac9e0944a551ffa349cd4971f5ef0cae",
 "android-icon-192x192.png": "75261e467435994008ebe83f3a1e99be",
+<<<<<<< HEAD
 "main.dart.js": "21e3c197cd8da08090d688e95c358cd8",
+=======
+"main.dart.js": "afb2085f47eac83dd57f7704dc62fc21",
+>>>>>>> ca4269d5facf16deb0157c05e6d2e20fa4f3bc54
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "apple-icon-57x57.png": "aba97e542c69e7690e9f38c352a58e7c",

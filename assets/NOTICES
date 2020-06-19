@@ -14274,6 +14274,7 @@ freely, subject to the following restrictions:
 
 Jean-loup Gailly
 Mark Adler
+<<<<<<< HEAD
 
 --------------------------------------------------------------------------------
 zoom_widget
@@ -14299,3 +14300,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+=======
+>>>>>>> ca4269d5facf16deb0157c05e6d2e20fa4f3bc54
