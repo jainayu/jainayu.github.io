@@ -42336,12 +42336,12 @@ F.yc.prototype={
 H:function(a){var t,s,r,q=null,p=4281075478,o=4282783535,n=4294689348,m=4294965223,l=4285277257
 if(a.aS(u.W).f.d){t=P.bf(60,255,255,255)
 s=A.cF(q,q,new P.F(n),q,q,q,q,q,q,q,q,30,q,C.fl,q,q,!0,8,q,q,q,q,q)
-s=R.A1(A.cF(q,q,C.M.h(0,300),q,q,q,q,q,q,q,q,18,q,C.A,q,q,!0,q,q,q,q,q,q),q,q,q,s,q,q,q,q,q,q,q,q)
+s=R.A1(A.cF(q,q,C.M.h(0,300),q,q,q,q,q,q,q,q,18,q,C.A,q,1.5,!0,q,q,q,q,q,q),q,q,q,s,q,q,q,q,q,q,q,q)
 r=A.cF(q,q,new P.F(p),q,q,q,q,q,q,q,q,q,q,C.an,q,q,!0,q,q,q,q,q,q)
 r=X.OQ(new P.F(n),new P.F(o),q,q,t,"Poppins",new P.F(p),q,s,T.Ws(S.cu(q,q,q,new P.F(n),q,q,C.E),q,q,q,q,q,r,q),C.j)
 t=r}else{t=P.bf(60,0,0,0)
 s=A.cF(q,q,new P.F(l),q,q,q,q,q,q,q,q,30,q,C.fl,q,q,!0,8,q,q,q,q,q)
-s=R.A1(A.cF(q,q,C.M.h(0,800),q,q,q,q,q,q,q,q,18,q,C.A,q,q,!0,q,q,q,q,q,q),q,q,q,s,q,q,q,q,q,q,q,q)
+s=R.A1(A.cF(q,q,C.M.h(0,800),q,q,q,q,q,q,q,q,18,q,C.A,q,1.5,!0,q,q,q,q,q,q),q,q,q,s,q,q,q,q,q,q,q,q)
 r=A.cF(q,q,new P.F(m),q,q,q,q,q,q,q,q,q,q,C.an,q,q,!0,q,q,q,q,q,q)
 r=X.OQ(new P.F(l),new P.F(4292791732),q,q,t,"Poppins",new P.F(m),q,s,T.Ws(S.cu(q,q,q,new P.F(l),q,q,C.E),q,q,q,q,q,r,q),new P.F(o))
 t=r}return new S.p2(new K.ze(K.Nb(q),K.Nb(new R.kW(q)),K.Nb(new R.kW(q)),K.Nb(new O.ow(q)),q),"Ayush Jain's Resume ",t,!1,q)}}
